@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
-title_separator          : "-"
+title                    : "lift off"
+title_separator          : "|"
 name                     : "Site Name"
 description              : "An amazing website."
 url                      : "https://gt987.github.io"
