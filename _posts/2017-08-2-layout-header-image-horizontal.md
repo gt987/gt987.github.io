@@ -1,7 +1,7 @@
 ---
 title: "Layout: Header Image (Horizontal)"
 header:
-  image: /docs/images/hero.png
+  image: /docs/images/hero2.jpg
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 categories:
   - Layout
