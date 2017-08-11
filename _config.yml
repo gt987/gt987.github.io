@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "lift off"
+title                    : "Lift off"
 title_separator          : "|"
 name                     : "Site Name"
 description              : "An amazing website."
