@@ -27,4 +27,6 @@ Given that my beloved neighbors where still making a mess at 4 am,
 
 ## Where is the party?
 
+As a fun side question, one could ask which neighborhood receive most attention. In order to find out, I used a k-neighbors classification with 100 centers and listed the clusters with the highest number of calls. These are the top 3
+
 <img src="https://gt987.github.io/assets/images/noisy.png" alt="">
