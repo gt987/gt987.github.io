@@ -13,7 +13,3 @@ But is this even true? Are really people in NYC used to noise? Or in other words
 * which are the most noise areas in NYC?
 
 To find an answer to these questions, I have taken a look at the enormous database of calls to the 311
-
-```markdown
-{% raw %}![alt]({{https://gt987.github.io}}{{https://gt987.github.io}}/assets/images/noisy.png){% endraw %}
-```
