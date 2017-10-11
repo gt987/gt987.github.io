@@ -2,14 +2,16 @@
 title: "New Neighbors"
 ---
 
-I have new neighbors... noisy neighbors! I had noticed that new people were living above my apartment, and I was of course fine with that... until the past weekend, when I woke up at 3 am because of the loud music and pounding on the floor. But hey, I live in NYC, the city that never sleeps. Or at least this is what I thought. (Okay, maybe not the first thing that I thought...)
+A couple of weeks ago I noticed that some new tenants had moved in the apartment above mine and I was of course fine with that... until they woke me up at 3 am. Loud music, dancing, jumping and all of that...
 
-But is this even true? Are really people in NYC used to noise? Or in other words:
-* when do typically people start to complain about noise?
-* which are the most noise areas in NYC?
+But hey, I live in NYC, the city that never sleeps. Or at least this is what I thought. (Okay, maybe not the first thing that I thought...)
 
-To find an answer to these questions, I have taken a look at the enormous database of calls to the 311.
-The database contains...
+But is this even true? Are really people in NYC used to parties? Or in other words:
+* when do typically people start to complain about noise/music?
+* which are the most noisy areas in NYC?
+
+To find an answer to these questions, I have taken a look at the (enormous database)[https://opendata.cityofnewyork.us] of calls to the 311.
+The database contains information about the service requests made in NYC since 2010 (roughly 16 millions). I need a very limited amount of information for the following exploration. If you want to explore more, you can find the notebook in python (here)[https://opendata.cityofnewyork.us]
 
 ## Is it too early to call 311?
 
@@ -21,8 +23,8 @@ But the most important thing for my good rest is the distribution of calls over 
 
 <img src="https://gt987.github.io/assets/images/calls_hist.png" alt="">
 
-As expected most of the calls happen at night and (to my surprise) as early as 9 pm, with a peak at 11 pm.
-Just for comparison, my beloved neighbors where still making a mess at 4 am! I guess I won't feel sorrow for shutting down the party the next time...
+As expected most of the calls happen at night and (to my surprise) as early as 9 pm, with a peak around 11 pm.
+Just for comparison, my beloved neighbors where still making a mess at 4 am! I guess I won't feel sorrow for shutting down the party the next time!
 
 ## Where is the party?
 
@@ -30,4 +32,4 @@ As a fun side-question, one could ask which neighborhood receive most attention.
 
 <img src="https://gt987.github.io/assets/images/noisy.png" alt="">
 
-If you live in NYC, you could try to get there and sneak into a party!
+If you live in NYC and you want to sneak into a party, I would suggest to try the lower east-side!
