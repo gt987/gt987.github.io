@@ -1,23 +1,10 @@
 ---
-title: "Oatmeal Cookies"
+title: "New Neighbors"
 ---
 
-Oatmeal cookies are a proverbial favorite with both kids and adults. This crisp and chewy cookie is loaded with oats, dried fruit, and chopped nuts.
+I have new neighbors... noisy neighbors! It was just a couple of weeks ago that I noticed new people living above my apartment, and I was ofc fine with that... until this weekend, when I woke up at 3 am because of the loud music and pounding on the floor. But hey, I live in NYC, the city that never sleeps. Or at least this is what I thought. (Okay maybe not the first thing that I thought...)
 
-## Ingredients
+But is this even true? Are really people in NYC used to noise? Or in other words:
 
-* 1 cup butter, softened 1 cup white sugar
-* 1 cup packed brown sugar
-* 2 eggs
-* 1 teaspoon vanilla extract
-* 2 cups all-purpose flour
-* 1 teaspoon baking soda
-* 1 teaspoon salt
-* 1 1/2 teaspoons ground cinnamon
-* 4 cups quick cooking oats
-
-## Directions
-
-1. In a medium bowl, cream together butter, white sugar, and brown sugar. Beat in eggs one at a time, then stir in vanilla. Combine flour, baking soda, salt, and cinnamon; stir into the creamed mixture. Mix in oats. Cover, and chill dough for at least one hour.
-2. Preheat the oven to 375 degrees F (190 degrees C). Grease cookie sheets. Roll the dough into walnut sized balls, and place 2 inches apart on cookie sheets. Flatten each cookie with a large fork dipped in sugar.
-3. Bake for 8 to 10 minutes in preheated oven. Allow cookies to cool on baking sheet for 5 minutes before transferring to a wire rack to cool completely.
+* when does typically people start to complain about noise?
+* which are the most noise areas in NYC?
