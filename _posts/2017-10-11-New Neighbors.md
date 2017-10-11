@@ -16,4 +16,13 @@ The database contains...
 
 I pulled from the database 10^5 calls that where categorized as "residential noise". Interestingly enough, most of the time people complains for their neighbors having loud music and dancing (70%), and sometimes for pounding (25%). Take a look
 
-<img src="https://github.com/gt987/gt987.github.io/assets/images/calls_dist.png" alt="">
+<img src="https://github.com/gt987/gt987.github.io/tree/master/assets/images/calls_dist.png" alt="">
+
+But the most important question for my future good rest is when do people start to call the police?
+This brings me to the distribution of calls over time. As expected most calls happen at night, but to my surprise, as early as 9 pm with a peak at 11 pm.
+
+<img src="https://github.com/gt987/gt987.github.io/tree/master/assets/images/calls_hist.png" alt="">
+
+## Where is the party?
+
+<img src="https://github.com/gt987/gt987.github.io/tree/master/assets/images/noisy.png" alt="">
