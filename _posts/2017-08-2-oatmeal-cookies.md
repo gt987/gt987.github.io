@@ -14,7 +14,7 @@ Oatmeal cookies are a proverbial favorite with both kids and adults. This crisp 
 * 1 teaspoon baking soda
 * 1 teaspoon salt
 * 1 1/2 teaspoons ground cinnamon
-* 3 cups quick cooking oats
+* 4 cups quick cooking oats
 
 ## Directions
 
