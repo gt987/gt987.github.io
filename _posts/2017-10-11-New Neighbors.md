@@ -13,3 +13,11 @@ But is this even true? Are really people in NYC used to noise? Or in other words
 * which are the most noise areas in NYC?
 
 To find an answer to these questions, I have taken a look at the enormous database of calls to the 311
+
+The database contains...
+
+## Is it too early to call the 311?
+
+I pulled from the database 10^5 calls that where categorized as "residential noise". Interestingly enough, most of the time people complains for their neighbors having loud music and dancing (70%), and sometimes for pounding (25%). Take a look
+
+FIG
