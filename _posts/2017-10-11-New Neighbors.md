@@ -16,4 +16,4 @@ The database contains...
 
 I pulled from the database 10^5 calls that where categorized as "residential noise". Interestingly enough, most of the time people complains for their neighbors having loud music and dancing (70%), and sometimes for pounding (25%). Take a look
 
-FIG1
+<img src="https://github.com/gt987/gt987.github.io/assets/images/calls_dist.png" alt="">
