@@ -11,7 +11,7 @@ But is this even true? Are really people in NYC used to parties? Or in other wor
 * which are the most noisy areas in NYC?
 
 To find an answer to these questions, I have taken a look at the enormous [database](https://opendata.cityofnewyork.us) of calls to the 311.
-The database contains information about the service requests made in NYC since 2010 (roughly 16 millions). I need a very limited amount of information for the following exploration. If you want to explore more, you can find the my notebook [here](https://github.com/gt987/311-Service-Request)
+The database contains information about the service requests made in NYC since 2010 (roughly 16 millions). I needed a very limited amount of information for the following exploration, but if you want to explore more, you can find the my notebook [here](https://github.com/gt987/311-Service-Request).
 
 ## Is it too early to call 311?
 
