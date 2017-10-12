@@ -9,7 +9,7 @@
 locale                   : "en"
 title                    : "Liftoff"
 title_separator          : "|"
-name                     : "gt"
+name                     : "gabriele trevisan"
 description              : "An amazing website."
 url                      : "https://gt987.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -77,9 +77,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "gt"
+  name             : "gabriele trevisan"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a person."
+  bio              : "Physicist @ CCPP."
   location         : "New York City"
   email            :
   uri              :
@@ -89,7 +89,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "https://github.com/gt987"
   gitlab           :
   google_plus      :
   keybase          :
