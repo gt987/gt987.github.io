@@ -6,41 +6,7 @@
    Breadcrumb navigation links
    ========================================================================== */
 
-<<<<<<< HEAD
-.breadcrumbs {
-  @include clearfix;
-  margin: 0 auto;
-  max-width: 100%;
-  padding-left: 2em;
-  padding-right: 2em;
-  font-family: $sans-serif;
-  -webkit-animation: $intro-transition;
-          animation: $intro-transition;
-  -webkit-animation-delay: 0.30s;
-          animation-delay: 0.30s;
 
-  @include breakpoint($large) {
-    padding-left: 1em;
-    padding-right: 1em;
-  }
-
-  @include breakpoint($x-large) {
-    max-width: $x-large;
-  }
-
-  ol {
-    padding: 0;
-    list-style: none;
-    font-size: $type-size-6;
-
-    @include breakpoint($large) {
-      float: right;
-      width: span(10 of 12);
-    }
-
-    @include breakpoint($x-large) {
-      padding-left: gutter(0.5 of 12);
-=======
    .breadcrumbs {
     @include clearfix;
     margin: 0 auto;
@@ -60,7 +26,6 @@
 
     @include breakpoint($x-large) {
       max-width: $x-large;
->>>>>>> mmistakes/master
     }
 
     ol {
@@ -78,18 +43,9 @@
       }
     }
 
-<<<<<<< HEAD
-.pagination {
-  @include clearfix();
-  float: left;
-  margin-top: 1em;
-  padding-top: 1em;
-  width: 100%;
-=======
     li {
       display: inline;
     }
->>>>>>> mmistakes/master
 
     .current {
       font-weight: bold;
@@ -581,17 +537,11 @@
       }
     }
 
-<<<<<<< HEAD
-  li ul > li a {
-    padding-left: 1.75rem;
-    font-weight: normal;
-  }
-=======
     li ul > li a {
       padding-left: 1.75rem;
       font-weight: normal;
     }
->>>>>>> mmistakes/master
+
 
     /* hide sub sub links on small screens*/
     li > ul li {
