@@ -6,8 +6,8 @@ title: "Cabs vs Uber"
 
 
 
-<img src="https://gt987.github.io/assets/images/CabsVsUber/time.pdf" alt="">
+<img src="https://gt987.github.io/assets/images/CabsVsUber/time.png" alt="">
 
 
 
-<img src="https://gt987.github.io/assets/images/CabsVsUber/price.pdf" alt="">
+<img src="https://gt987.github.io/assets/images/CabsVsUber/price.png" alt="">
