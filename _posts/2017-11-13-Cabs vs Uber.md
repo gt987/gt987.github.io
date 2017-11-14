@@ -15,7 +15,11 @@ This database can obviously answer a bunch of interesting questions and should b
 
 ## Data
 
-To be finished
+The TLC provides a monthly dataset for each of the three categories of vehicles operating in NYC (Yellow, Green and FHV). The average dataset contains around 10^8 rides and weights around 1 GB. In total it contains roughly a billion rides (yes billion!) for a total of 250 GB. In fact it is so big that it does not fit on my laptop.
+
+Fortunately a large part of it can be already found on [BigQuery](https://cloud.google.com/bigquery/public-data/nyc-tlc-trips), and can be assessed via simple SQL queries. The 2017 data is not there, so I downloaded them directly from TLC. For an explanation on how to retrieve the information you'll see below, take a look at (my repository)[https://github.com/gt987/Cabs-vs-Uber].
+
+The FHV data provided by TLC is not as exhaustive as the Yellow and Green data as it often contains only the license id and the pickup time. It is however sufficient to individuate the amount of trips made by Uber cars. Notice also there is an error in how BigQuery retrieves the FHV data in June 2015, which I've fixed by looking at the original TLC data.  
 
 ## Bye Bye cabs...
 
