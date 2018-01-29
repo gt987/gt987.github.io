@@ -2,10 +2,10 @@
 title: "New Neighbors"
 categories:
   - Data Lens
-  - Services
-tags:
-  - nyc
-  - 311
+#  - Services
+#tags:
+#  - nyc
+#  - 311
 ---
 
 A couple of weeks ago I noticed that some new tenants had moved in the apartment above mine and I was of course fine with that... until they woke me up at 3 am. Loud music, dancing, jumping and all of that...

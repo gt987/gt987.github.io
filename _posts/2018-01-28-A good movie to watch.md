@@ -23,7 +23,7 @@ The fields useful for this projects are: year of publication, review, and rating
 
 ## EDA
 
-TO be finished
+To be finished...
 
 ## GitHub Repo
 

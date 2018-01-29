@@ -2,11 +2,11 @@
 title: "Cabs vs Uber"
 categories:
   - Data Lens
-  - Transportation
-tags:
-  - nyc
-  - uber
-  - taxi
+#  - Transportation
+#tags:
+#  - nyc
+#  - uber
+#  - taxi
 ---
 
 Since the introduction of the iPhone, our lives and habits have changed dramatically, and one of these big changes involves the way we travel around cities. For example, 10 years ago we used to raise our arm to call a cab, nowadays we most likely go for our phones, and probably in some years we'll summon a driverless car using our watch. Moreover, all these changes are also affecting companies that haven't been able to evolve (think about Nokia) and entire compartments of the economy (sorry drivers...).
