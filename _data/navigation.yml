@@ -7,6 +7,6 @@ main:
   # - title: "Sample Posts"
   #   url: /year-archive/
    - title: "Archive"
-     url: https://gt987.github.io/archive.html
+     url: /categories/
   # - title: "Sitemap"
   #   url: /sitemap/
