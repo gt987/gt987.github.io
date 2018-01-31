@@ -33,7 +33,7 @@ A more interesting quantity that can be derived from the text is the length of t
 
 <img src="https://gt987.github.io/assets/images/Ebert/length.png" alt="">
 
-This quite surprising fact is not unique of Ebert's style but is instead a generic human behavior connected somehow with natural language. For those interested take a look at some occurrence of the log-normal distribution on this [Wikipedia entry](https://en.wikipedia.org/wiki/Log-normal_distribution#Occurrence_and_applications).
+This quite surprising fact is not unique of Ebert's style but is instead a generic human behavior connected somehow with natural language. For those interested you can read more about the occurrence of the log-normal distribution on this [Wikipedia entry](https://en.wikipedia.org/wiki/Log-normal_distribution#Occurrence_and_applications).
 
 ## NLP in Python
 
@@ -41,4 +41,4 @@ To be finished...
 
 ## GitHub Repo
 
-The code for the analysis is available on my GitHub repository if you are interested. Enjoy!
+The code for the analysis is available on my GitHub [repo](https://github.com/gt987/A-good-movie) if you are interested. Enjoy!
